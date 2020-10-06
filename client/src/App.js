@@ -1,13 +1,15 @@
 import React, { Component } from 'react';
 import NavBar from './NavBar';
-import logo from './logo.svg';
-import './App.css';
+import Pyramid from './Pyramid';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
         <NavBar />
+        <div className="three column row">
+        <Pyramid />
+        </div>
       </div>
     );
   }
