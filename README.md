@@ -7,10 +7,6 @@ Fat Staxx LLC (FSLLC) is a tournament hosting platform built with fun and profit
 Please note that FSLLC is currently in Beta (as much as a tournament can be in Beta). While everything should work well, there are still bugs and missing features that need to be
 addressed.
 
-### Browser Extension
-
-
-
 ## How does it work?
 FSLLC uses the Toornament API to host the tourament that you and your friends are particpating in, React is the framework for our public facing website, and Twitch is what ties us all together.
 
