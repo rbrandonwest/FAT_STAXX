@@ -1,5 +1,5 @@
 <p align="center">
-<img src="http://img4.imagetitan.com/img4/L2D8niIfvTUgERX/23/23_logo_1.png" align="center" height="500" alt="Image Hosted by ImageTitan.com"></a>
+<img src="http://img4.imagetitan.com/img4/L2D8niIfvTUgERX/23/23_logo_1.png" align="left" height="300" alt="Image Hosted by ImageTitan.com"></a>
 </p>
 
 Fat Staxx LLC (FSLLC) is a tournament hosting platform built with fun and profit in mind.
